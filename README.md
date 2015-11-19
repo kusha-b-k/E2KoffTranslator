@@ -1,5 +1,5 @@
-# E2KoffTranslator
-
+# E2KoffTranslator   beta version
+    
 android application
 convert english word in to kannada meaningfull word
 
