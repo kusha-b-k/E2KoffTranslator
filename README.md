@@ -1,4 +1,6 @@
 # E2KoffTranslator
+
+android application
 convert english word in to kannada meaningfull word
 
 SCREEN SHOTS
