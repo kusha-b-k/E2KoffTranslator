@@ -1,6 +1,8 @@
 #E2KoffTranslator   beta version 
 android application.
 
+#developed by kusha bk
+
 convert english word in to kannada meaningfull word.
 #Get the code
 Clone the git repository available here on github.
