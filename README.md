@@ -1,4 +1,12 @@
-#E2KoffTranslator   beta version 
+<head>
+<meta charset="UTF-8">
+<meta name="description" content="convert english word in to kannada meaningfull word.">
+<meta name="keywords" content="kushabk,kusha bk,kusha b k,E2KoffTranslator,convert, english, word, in, to,kannada, meaningfull, word">
+<meta name="author" content="kusha bk">
+<meta http-equiv="refresh" content="30">
+</head>
+
+#E2KoffTranslator  early version 
 android application.
 
 #developed by kusha bk
