@@ -6,10 +6,10 @@
 <meta http-equiv="refresh" content="30">
 </head>
 
-#E2KoffTranslator  early version 
+#E2KoffTranslator , early version 
 android application.
 
-#developed by kusha bk
+#ANDROID APPLICATION developed by kusha bk
 
 convert english word in to kannada meaningfull word.
 #Get the code
